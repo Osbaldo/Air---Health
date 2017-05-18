@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns	= "http://www.w3.org/ns/widgets"
+		xmlns:gap	= "http://phonegap.com/ns/1.0"
+		id			= "com.phonegap.example"
+		versionCode = "10"
+		version 	= "1.0.0" >
+
+		<!-- versionCode solo esta disponible para android y es opcional -->
+
+		<name>Air - Health</name>
+
+		<description> 
+			Aplicacion para la deteccion de diferentes componentes en el aire
+		</description>
+
+		<author href="https://www.facebook.com/osbaldo.punk" email="osbaldo_cl@hotmail.com">
+			web
+		</author>
+
+</widget>
