@@ -157,7 +157,7 @@ h1 {
     width: 225px;
 }
 
-.resultado{
+.resultado1{
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
     border-radius: 60%;
@@ -166,6 +166,19 @@ h1 {
     width: 200px;
     margin-top: 100px;
     font-size: 25px;
-    background-color:#4fe74a;
+    background-color:#195AD8;
+    color: white;
+}
+
+.resultado2{
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+    border-radius: 60%;
+    padding-top: 10%;
+    height: 150px;
+    width: 200px;
+    margin-top: 100px;
+    font-size: 25px;
+    background-color:#AEB404;
     color: white;
 }

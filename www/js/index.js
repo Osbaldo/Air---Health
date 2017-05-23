@@ -59,11 +59,15 @@ var app = {
 
         console.log('Received Event: ' + id);
     },
+
+
+
     // Se supone que es para que el boton cambie de pagina
     windowChange: function() {
               window.location = "conectar.html";
               //navigator.notification.alert("PhoneGap is working");
     },
+
     // Se supone que es para que el boton cambie de pagina
     windowbluetooth: function() {
               window.location = "bluetooth.html";
